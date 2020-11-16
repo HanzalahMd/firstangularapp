@@ -1,0 +1,18 @@
+.heading {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.planet {
+    max-height: 600px;
+}
+
+.div-planet {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
